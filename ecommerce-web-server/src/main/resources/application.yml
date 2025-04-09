@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: sergio-garage-webserver
+  datasource:
+    url: jdbc:postgresql://localhost:5432/

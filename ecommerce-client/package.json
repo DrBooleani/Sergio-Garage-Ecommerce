@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce-client",
+  "version": "1.0.0",
+  "description": "Sergio Garage Client Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drbooleani/Sergio-Garage-Ecommerce.git"
+  },
+  "keywords": [
+    "admin",
+    "pug"
+  ],
+  "author": "drbooleani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drbooleani/Sergio-Garage-Ecommerce/issues"
+  },
+  "homepage": "https://github.com/drbooleani/Sergio-Garage-Ecommerce#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pug": "^3.0.3"
+  }
+}
